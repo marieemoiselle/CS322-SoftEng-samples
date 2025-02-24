@@ -1,5 +1,5 @@
 # Complex Approach of a function to check if a number is odd
-def is_even(number):
+def is_odd(number):
 	if number % 2 != 0:
 		return True
 	else:
@@ -7,5 +7,5 @@ def is_even(number):
 
 # Main function
 if __name__ == "__main__":
-	print(is_even(18))
-	print(is_even(27))
+	print(is_odd(18))
+	print(is_odd(27))
