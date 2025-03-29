@@ -4,7 +4,7 @@ by: **Ms. Fatima Marie P. Agdon, MSCS**
 ## 💭 About
 This course provides a comprehensive introduction to software engineering aiming to prepare students with the knowledge and skills to design, develop, and deploy reliable software systems. By covering essential topics such as requirements engineering, software design, UML modeling, coding, testing, and deployment, students will gain a solid foundation in applying engineering principles to real-world software development projects. 
 
-This is a repository containing code samples for CS 322: Software Engineering, specifically in **Lesson 4: Translating Designs into Code**.
+This is a repository containing code samples for CS 322: Software Engineering, specifically in **Lesson 4: Translating Designs into Code** and **Lesson 5: Testing and Quality Assurance**.
 
 ## 🗺️ Lesson 4 Roadmap
 - Object-oriented Principles
@@ -20,3 +20,9 @@ This is a repository containing code samples for CS 322: Software Engineering, s
     - Don't Repeat Yourself (DRY Principle)
     - Keep It Simple, Stupid (KISS Principle)
 - Basics of Version Control
+
+## 🗺️ Lesson 5 Roadmap
+- Manual Unit Testing and Functional Testing
+- Writing Basic Test Cases & Running Manual Tests
+- Introduction to Test Case Documentation
+- Overview of Software Quality
